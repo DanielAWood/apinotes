@@ -1,5 +1,5 @@
 # apinotes
 
-This requires javax jar file to be imported to the project
+This requires javax.ws library; be sure to use Java EE.
 
 Should be run on an Apache server

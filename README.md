@@ -6,10 +6,6 @@ Project requires javax.ws.rs* and javax.json.* - Please make sure these are avai
 
 When running calls to API on host will store notes with unique id's.
 
-  -Post
-  -Get
-  -Put
-  -Delete
 
 Project does not include server side setup so "restarting" the service will reset the data as is.
 
